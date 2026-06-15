@@ -168,9 +168,9 @@ tail -f backend/logs/app.log
 
 ## Boas praticas aplicadas
 
-- DTOs com validacao no backend.
-- Separacao por modulos no NestJS.
-- Relacionamentos explicitos no banco.
-- Seed automatico para facilitar avaliacao.
+- DTOs com validação no backend.
+- Separação por módulos no NestJS.
+- Relacionamentos explícitos no banco.
+- Seed automático para facilitar avaliação.
 - Frontend separado em componentes e cliente de API.
 - Docker Compose com healthcheck do PostgreSQL.
